@@ -26,3 +26,17 @@ Get specific time
 val yesterday = Calendar.getInstance().yesterday()
 val midnight = Calendar.getInstance().midnight()
 ```
+
+## Installation 
+
+Gradle
+```
+repositories {
+    maven { url "https://dl.bintray.com/luthfihariz/kocax"}
+}
+
+dependencies {
+    implementation 'com.luthfihariz.kocax:kocax:0.1'
+}
+
+```
