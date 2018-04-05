@@ -1,4 +1,7 @@
 # kocax
+
+[ ![Download](https://api.bintray.com/packages/luthfihariz/kocax/com.luthfihariz.kocax%3Akocax/images/download.svg) ](https://bintray.com/luthfihariz/kocax/com.luthfihariz.kocax%3Akocax/_latestVersion) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 Kotlin Calendar extension
 
 ## Usage
